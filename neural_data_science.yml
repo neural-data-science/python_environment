@@ -13,7 +13,6 @@ dependencies:
   - matplotlib-base
   - numexpr
   - pandas
-  - pandoc
   - pytables
   - pyyaml
   - regex
@@ -28,9 +27,6 @@ dependencies:
   - dicom2nifti
   - dcm2bids
   - gh
-  - ghp-import
-  - jupyter-book
-  - nbconvert
   - nodejs
   - nibabel
   - nilearn
